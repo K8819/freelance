@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D & Concept Products - Adam Krieger</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @keyframes fadeInUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+        .animate-fade-in { animation: fadeInUp 0.6s ease-out forwards; }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-100 min-h-screen flex flex-col items-center py-12 px-4 font-sans">
+    <div class="w-full max-w-4xl bg-white text-black p-8 rounded-2xl shadow-2xl animate-fade-in">
+        <header class="border-b-2 border-gray-200 pb-4 mb-8">
+            <h1 class="text-3xl font-extrabold tracking-tight">3D & Concept Products</h1>
+            <p class="text-gray-600 mt-1">Fictional product lore, 3D web display elements, and design pipelines.</p>
+        </header>
+
+        <main class="space-y-10">
+            
+            <!-- Concept 1 -->
+            <section class="border border-gray-200 p-6 rounded-xl shadow-sm bg-gray-50 flex flex-col md:flex-row gap-6 items-center">
+                <div class="w-full md:w-1/3 bg-gray-200 h-48 rounded-lg flex items-center justify-center text-gray-400 border-2 border-dashed border-gray-300">
+                    <span class="text-sm font-bold uppercase tracking-widest text-center px-4">Interactive 360°<br>Model Viewer</span>
+                </div>
+                <div class="w-full md:w-2/3">
+                    <h2 class="text-2xl font-bold text-gray-900 mb-2">Polycam Head Rotation Asset</h2>
+                    <p class="text-sm font-semibold text-blue-600 uppercase tracking-wider mb-3">Photogrammetry / Web Rendering</p>
+                    <p class="text-gray-700 leading-relaxed mb-4">An interactive 360-degree head rotation asset built utilizing Polycam and Google's model-viewer web component. Demonstrates a full 3D photogrammetry pipeline embedded directly into a lightweight web environment.</p>
+                    <a href="#" class="inline-block px-4 py-2 bg-blue-600 text-white font-semibold rounded hover:bg-blue-700 transition-colors">View 3D Demo</a>
+                </div>
+            </section>
+
+            <!-- Concept 2 -->
+            <section class="border border-gray-200 p-6 rounded-xl shadow-sm bg-gray-50 flex flex-col md:flex-row gap-6 items-center">
+                <div class="w-full md:w-1/3 bg-gray-200 h-48 rounded-lg flex items-center justify-center text-gray-400 border-2 border-dashed border-gray-300">
+                    <span class="text-sm font-bold uppercase tracking-widest text-center px-4">Concept Art<br>Placeholder</span>
+                </div>
+                <div class="w-full md:w-2/3">
+                    <h2 class="text-2xl font-bold text-gray-900 mb-2">"Neo-Seoul" Commuter Gear</h2>
+                    <p class="text-sm font-semibold text-blue-600 uppercase tracking-wider mb-3">Fictional Product Lore</p>
+                    <p class="text-gray-700 leading-relaxed mb-4">A concept design and accompanying narrative for high-speed urban utility and courier cycling gear. Features speculative specs on insulated materials, quick-release hubs, and integrated USB-rechargeable safety matrices.</p>
+                    <a href="#" class="inline-block px-4 py-2 bg-gray-800 text-white font-semibold rounded hover:bg-gray-900 transition-colors">Read Design Document</a>
+                </div>
+            </section>
+
+        </main>
+
+        <footer class="mt-12 pt-6 border-t border-gray-200 text-center text-sm">
+            <a href="multimedia-projects.html" class="text-blue-600 font-semibold hover:underline mr-4">⬅ Back to Multimedia Projects</a> | 
+            <a href="index.html" class="text-blue-600 font-semibold hover:underline ml-4">🏠 Main Hub</a>
+        </footer>
+    </div>
+</body>
+</html>

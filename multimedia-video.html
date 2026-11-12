@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Gallery - Adam Krieger</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        @keyframes fadeInUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+        .animate-fade-in { animation: fadeInUp 0.6s ease-out forwards; }
+    </style>
+</head>
+<body class="bg-gray-900 text-gray-100 min-h-screen flex flex-col items-center py-12 px-4 font-sans">
+    <div class="w-full max-w-5xl bg-white text-black p-8 rounded-2xl shadow-2xl animate-fade-in">
+        <header class="border-b-2 border-gray-200 pb-4 mb-8">
+            <h1 class="text-3xl font-extrabold tracking-tight">Video Gallery</h1>
+            <p class="text-gray-600 mt-1">Showcase of external video projects, film edits, and multimedia narratives.</p>
+        </header>
+
+        <main class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            
+            <!-- Video Project 1 -->
+            <div class="border border-gray-200 rounded-xl overflow-hidden shadow-sm bg-gray-50">
+                <div class="aspect-w-16 aspect-h-9 bg-gray-800 flex items-center justify-center relative group cursor-pointer h-64">
+                    <!-- Placeholder for external embed (YouTube/Vimeo) -->
+                    <div class="absolute inset-0 flex items-center justify-center">
+                        <svg class="w-16 h-16 text-white opacity-70 group-hover:opacity-100 transition-opacity" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd"></path></svg>
+                    </div>
+                </div>
+                <div class="p-5">
+                    <h3 class="font-bold text-gray-900 text-xl mb-2">Short Film: The Neon Horizon</h3>
+                    <p class="text-gray-600 text-sm mb-4">A surreal exploration of urban decay. Edited and color-graded using DaVinci Resolve. Hosted via Vimeo.</p>
+                    <a href="#" class="text-red-600 font-semibold hover:underline text-sm">Watch Externally ➔</a>
+                </div>
+            </div>
+
+            <!-- Video Project 2 -->
+            <div class="border border-gray-200 rounded-xl overflow-hidden shadow-sm bg-gray-50">
+                <div class="aspect-w-16 aspect-h-9 bg-gray-800 flex items-center justify-center relative group cursor-pointer h-64">
+                    <div class="absolute inset-0 flex items-center justify-center">
+                        <svg class="w-16 h-16 text-white opacity-70 group-hover:opacity-100 transition-opacity" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clip-rule="evenodd"></path></svg>
+                    </div>
+                </div>
+                <div class="p-5">
+                    <h3 class="font-bold text-gray-900 text-xl mb-2">Promotional B2B Campaign</h3>
+                    <p class="text-gray-600 text-sm mb-4">SaaS marketing video emphasizing API integration benefits. Motion graphics and scriptwriting by Adam Krieger.</p>
+                    <a href="#" class="text-red-600 font-semibold hover:underline text-sm">Watch Externally ➔</a>
+                </div>
+            </div>
+
+        </main>
+
+        <footer class="mt-12 pt-6 border-t border-gray-200 text-center text-sm">
+            <a href="multimedia-projects.html" class="text-blue-600 font-semibold hover:underline mr-4">⬅ Back to Multimedia Projects</a> | 
+            <a href="index.html" class="text-blue-600 font-semibold hover:underline ml-4">🏠 Main Hub</a>
+        </footer>
+    </div>
+</body>
+</html>
