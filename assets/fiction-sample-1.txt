@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Writings & Fiction - Adam Krieger</title>
+    <title>Yoni and the Lingam - ArtFarmer</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         @keyframes fadeInUp {
@@ -16,44 +16,75 @@
     </style>
 </head>
 <body class="bg-gray-900 text-gray-100 min-h-screen flex flex-col items-center py-12 px-4 font-sans">
-    <div class="w-full max-w-2xl bg-white text-black p-8 rounded-2xl shadow-2xl animate-fade-in">
-        <header class="border-b-2 border-gray-200 pb-4 mb-6">
-            <h1 class="text-3xl font-extrabold tracking-tight">Writings & Fiction</h1>
-            <p class="text-gray-600 mt-1">Excerpts and literary samples by Adam Krieger</p>
+    <div class="w-full max-w-2xl bg-white text-black p-8 sm:p-12 rounded-2xl shadow-2xl animate-fade-in">
+        <header class="border-b-2 border-gray-200 pb-6 mb-8">
+            <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight text-gray-900">Yoni and the Lingam</h1>
+            <p class="text-sm font-semibold text-blue-600 uppercase tracking-wider mt-2">By ArtFarmer • Fiction, Texts • 2026</p>
         </header>
 
-        <main class="space-y-8">
-            <!-- Fiction Sample 1 -->
-            <article class="p-6 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
-                <h2 class="text-2xl font-bold text-gray-900 mb-2">Yoni and the Lingam</h2>
-                <p class="text-xs uppercase tracking-wider text-blue-600 font-semibold mb-4">Fiction, Texts • By ArtFarmer • 2026</p>
-                <div class="text-gray-700 italic space-y-3 border-l-4 border-blue-600 pl-4 my-4">
-                    <p>"She made a wish, closed her eyes and leaned in for a kiss, his body recoiled with pain and pleasure before he stuck her neck with his fangs…"</p>
-                </div>
-                <div class="mt-4 flex items-center justify-between">
-                    <a href="fiction-sample-1.html" class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800">
-                        📖 Read Full Text ➔
-                    </a>
-                </div>
-            </article>
+        <main class="space-y-6 text-gray-800 leading-relaxed text-base sm:text-lg">
+            <p>She made a wish, closed her eyes and leaned in for a kiss, his body recoiled with pain and pleasure before he stuck her neck with his fangs…</p>
+            <p>“You brought me back to life? You bitch!”</p>
+            <p>“You shot all your venom in me asshole, I’m probably going to have to go to the hospital. Are you venomous?”</p>
+            <p>“I was a baby again, that’s what we do, but I can’t even do that now. My venom was poisonous but not to you, you will get sick, perhaps even forever, but you will be okay.”</p>
+            <p>Her head began to swim and her eyes started to glow, she felt like she was skipping down the street on Sunday morning. She gently stroked his long dark wing as he purred and ruffled his feathers.</p>
+            <p>“I’m sorry, you looked so beautiful lying there in the tall grass. But you are even cuter now, plus I gave you the gift of gab. I didn’t think a kiss would, well…do that.”</p>
+            <p>“It was your wish, and you made me into a bird? You could’ve made me into a handsome prince.”</p>
+            <p>“Would you rather be a tree? Unaware of your own existence, stuck in one spot forever? Besides, I’d rather have a talking bird than a handsome prince.”</p>
+            <p>“That’s what I was hoping for, not this mortal coil, what do I even eat? And what is your name?”</p>
+            <p>“My name, my name is metaphysics. And you can eat whatever you want. The town is your oyster.”</p>
+            <p>“Cute, but what should I call you?”</p>
+            <p>“My name is Guinevere, my friends call me Joni.”</p>
+            <p>“Well nice to meet you Guinevere. I’ll call you Yoni, with a soft J.”</p>
+            <p>“And you?”</p>
+            <p>“I’ve never had a name, but you can call me…Lingam.”</p>
+            <p>“Lovely to meet you Lingam,” she said, with little hearts dancing in her eyes, “But I have to go now, I feel, strange.”</p>
+            <p>She took off her clothes and disappeared into the scummy brown, brackish pond water. “Goodbye my love.”</p>
 
-            <!-- Fiction Sample 2 -->
-            <article class="p-6 bg-gray-50 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
-                <h2 class="text-2xl font-bold text-gray-900 mb-2">Sample Title Two</h2>
-                <p class="text-xs uppercase tracking-wider text-purple-600 font-semibold mb-4">Genre / Category • 2026</p>
-                <div class="text-gray-700 italic space-y-3 border-l-4 border-purple-600 pl-4 my-4">
-                    <p>"Insert excerpt or opening paragraph of your second fiction sample here. Highlight dialogue, surreal description, or character dynamic..."</p>
-                </div>
-                <div class="mt-4 flex items-center justify-between">
-                    <a href="assets/fiction-sample-2.txt" download class="inline-flex items-center text-sm font-semibold text-blue-600 hover:text-blue-800">
-                        📥 Download Full Text (.txt)
-                    </a>
-                </div>
-            </article>
+            <h2 class="text-2xl font-bold text-gray-900 pt-6 border-t border-gray-200">The Morning After</h2>
+            <p>There wasn’t much time. It had to be done before the noon day sun reached it’s apex. She reached the bottom of a deep ravine carpeted with snow white sand, saw a prickly pair cactus, closed her eyes and it began to speak.</p>
+            <p>After the communion, she collected herself, started a fire and opened her bag. White snake, ghost-rib cactus, and fine black obsidian sand went into the mix. She slowly crushed the cactus pulp into a thick, sticky green paste and bound it with powdered snake scales as it bubbled up into a sea of foam.</p>
+            <p>She made a wish, leaned in and blew out the candle, something she’d do each night before bed. She took the burning hot black sand and added to the concoction.</p>
+            <p>Soon after she ingested it, she became violently ill and fell asleep. Her naked, shivering body recoiled in horror. Fever dreams were full of unholy machines, inhumanity, and the voices of one thousand tiny sons and moons crying out in pain.</p>
+            <p>When she woke up, she felt better, but she knew what she had done. She could no longer speak to animals, she could no longer understand their needs, but she was queen of herself, whole again. And she forgot all about Lingam and the snake, the crow and his song, and the language of the sun and moon.</p>
+
+            <h2 class="text-2xl font-bold text-gray-900 pt-6 border-t border-gray-200">Oyster of Love</h2>
+            <p>I don’t know where he sleeps, but he perches on the wires across from my bedroom window each night. His calls are that of the morning. One, two, three. I’m here!</p>
+
+            <!-- Poem written in blue color text -->
+            <div class="my-6 p-6 bg-blue-50/50 border-l-4 border-blue-600 rounded-r-xl">
+                <p class="font-serif text-blue-800 italic whitespace-pre-line text-lg">Eating nuts after the rain softens them,
+For my handsome baby throat, 
+My mother is gone and I'm,
+Just a looking for the murder.
+
+Crow Village 
+Murder City
+Every child is bipolar
+Every child is schitzoid
+Eery child is deviation from form
+
+Be nice to your moms and dads.
+
+Because they love you
+Because they love you
+Even when they are being evil,
+Even when you go to the river alone,
+Even when they let you drive,
+Even when they hurt themselves,
+Even When They lie.</p>
+            </div>
         </main>
 
+        <!-- Author's Note -->
+        <section class="mt-12 pt-6 border-t-2 border-gray-200 text-sm text-gray-600 bg-gray-50 p-6 rounded-xl">
+            <h3 class="font-bold text-gray-900 mb-2">Author’s Note</h3>
+            <p class="leading-relaxed">This piece was conceived as an exercise within the supernatural romance genre, operating very much in the stylistic vein of <em>Cleopatra and Frankenstein</em> by Coco Mellors and Christopher Moore’s <em>You Suck</em> meets a classic anthropomorphic fairy tale. As Shelley famously reflected on the haunting power of romantic obsession and creation, fiction must touch upon those forces that "wakened thrilling horror—one should be cognizant of the unseen powers that rule our existence."</p>
+            <p class="mt-3 leading-relaxed">More specifically, this narrative functions as a direct inversion of the opening premise of Christopher Moore’s <em>You Suck</em>. An exercise in twisting those initial beats from Moore's contemporary vampire universe inside out.</p>
+        </section>
+
         <footer class="mt-10 pt-6 border-t border-gray-200 text-center text-sm">
-            <a href="portfolio-portal.html" class="text-blue-600 font-semibold hover:underline mr-4">⬅ Back to Portal</a> | 
+            <a href="texts.html" class="text-blue-600 font-semibold hover:underline mr-4">⬅ Back to Writings & Fiction</a> | 
             <a href="index.html" class="text-blue-600 font-semibold hover:underline ml-4">🏠 Main Portal</a>
         </footer>
     </div>
